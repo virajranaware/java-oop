@@ -1,4 +1,4 @@
-package exercises;
+
 
 import static org.junit.Assert.*;
 

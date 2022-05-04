@@ -1,4 +1,4 @@
-package exercises;
+package _06_UML.exercises;
 
 public class Backpack {
 

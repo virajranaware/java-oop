@@ -5,8 +5,8 @@ public class Pond {
 
 	public static void main(String[] args) {
 
-		Duck mobyDuck = new Duck("Moby", 90 / 3, "celery");
-		Duck wolfgangDuck = new Duck("Wolfgang", 60 / 3, "cheeseburgers");
+		examples.Duck mobyDuck = new examples.Duck("Moby", 90 / 3, "celery");
+		examples.Duck wolfgangDuck = new examples.Duck("Wolfgang", 60 / 3, "cheeseburgers");
 
 		mobyDuck.waddle();
 		mobyDuck.waddle();
