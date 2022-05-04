@@ -1,4 +1,4 @@
-package examples;
+package _02_InsideClasses.examples;
 
 import java.io.File;
 import javax.sound.sampled.AudioInputStream;

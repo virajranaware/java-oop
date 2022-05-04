@@ -1,4 +1,4 @@
-package examples;
+package _02_InsideClasses.examples;
 
 public class Character {
 

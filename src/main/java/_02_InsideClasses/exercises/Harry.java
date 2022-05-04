@@ -1,4 +1,4 @@
-package exercises;
+package _02_InsideClasses.exercises;
 
 public class Harry {
 
